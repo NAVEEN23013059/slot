@@ -24,6 +24,7 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
+```py
 <html>
     <head>
         <title>Slot Timetable</title>
@@ -34,7 +35,7 @@ Execute the program using runserver command.
         </center>
         <br>
         <table align="center" width="540">
-            <caption><b>SLOT TIMETABLE  MUKESH KUMAR JP (212222223002)</b></caption>
+            <caption><b>SLOT TIMETABLE  NAVEEN JP (212222223002)</b></caption>
             <tr align="center">
                 <th bgcolor="yellow">Day/Time</th>
                 <th bgcolor="yellow">Monday</th>
@@ -125,8 +126,13 @@ Execute the program using runserver command.
     </body>
 </html>
 
+```
+
+
+
+
 ## OUTPUT
-![alt text](<Screenshot 2024-03-22 094518.png>)
+![alt text](<Screenshot 2024-03-22 094518-1.png>)
 
 
 ## RESULT
