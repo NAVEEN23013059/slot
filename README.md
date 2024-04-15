@@ -132,7 +132,8 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-![alt text](<Screenshot 2024-03-22 094518-1.png>)
+ 
+ ![](./image.png)
 
 
 ## RESULT
